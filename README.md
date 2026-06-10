@@ -5,38 +5,38 @@
 ###
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript logo" />
+  <img src="https://skillicons.dev/icons?i=js" height="50" alt="javascript" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript logo" />
+  <img src="https://skillicons.dev/icons?i=ts" height="50" alt="typescript" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php logo" />
+  <img src="https://skillicons.dev/icons?i=php" height="50" alt="php" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs logo" />
+  <img src="https://skillicons.dev/icons?i=nodejs" height="50" alt="nodejs" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react logo" />
+  <img src="https://skillicons.dev/icons?i=react" height="50" alt="react" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html logo" />
+  <img src="https://skillicons.dev/icons?i=html" height="50" alt="html" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css logo" />
+  <img src="https://skillicons.dev/icons?i=css" height="50" alt="css" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql logo" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="50" alt="mysql" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql logo" />
+  <img src="https://skillicons.dev/icons?i=postgres" height="50" alt="postgresql" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress logo" />
+  <img src="https://skillicons.dev/icons?i=wordpress" height="50" alt="wordpress" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git logo" />
+  <img src="https://skillicons.dev/icons?i=git" height="50" alt="git" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux logo" />
+  <img src="https://skillicons.dev/icons?i=linux" height="50" alt="linux" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java logo" />
+  <img src="https://skillicons.dev/icons?i=java" height="50" alt="java" />
   <img width="10" />
-  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp logo" />
+  <img src="https://skillicons.dev/icons?i=cpp" height="50" alt="cpp" />
 </div>
 
 ###
 
-<h3>🚀 Projects</h3>
+### 🚀 Projects
 
 🤖 **JJ Systems** — WhatsApp chatbot platform for local businesses, powered by AI → [jjsystems.es](https://jjsystems.es)
 
@@ -47,16 +47,13 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=jjavnish&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
-</div>
-
-###
-
-<div align="center">
   <a href="https://www.linkedin.com/in/TU-LINKEDIN-AQUI">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo" />
+    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin" />
   </a>
   <a href="mailto:avnishjassal@gmail.com">
-    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email logo" />
+    <img src="https://img.shields.io/static/v1?message=Email&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="email" />
+  </a>
+  <a href="https://jjsystems.es">
+    <img src="https://img.shields.io/static/v1?message=JJ%20Systems&logo=google-chrome&label=&color=4285F4&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="website" />
   </a>
 </div>
