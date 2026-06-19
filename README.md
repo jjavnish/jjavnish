@@ -44,6 +44,8 @@
 
 🎮 **Breakout Game** — Classic breakout game built with vanilla JS and HTML5 Canvas
 
+✉️ **MailPro AI** — Email rewriting tool powered by Claude AI → [emmailpro.netlify.app](https://emmailpro.netlify.app/)
+
 ###
 
 <div align="center">
